@@ -1,4 +1,4 @@
-module github.com/TedCollin/sorttemplate
+module github.com/Sland245/sorttemplate
 
 go 1.24.1
 
